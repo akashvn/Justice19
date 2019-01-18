@@ -179,7 +179,7 @@
             <h4 class="modal-title">Breakout Session Registration</h4>
           </div>
           <div class="modal-body">
-            <p>This website lets you register for breakout sessions for the <strong>2019 Justice Summit on Gender</strong> at Bellarmine. However, registrations are currently closed so please view your schedule on the left of the screen. Breakout sessions are built into the Bellarmine schedule for the week of March 19th. Sessions in Blocks 1 and 2 (held on Tuesday) will be presented by Bellarmine faculty and students, and sessions in Block 3 and 4 (held on Wednesday) will be presented by guests to our campus.<br /><br />If you have any questions or need help, please contact me by <a href="mailto:marcus.ma20@bcp.org">clicking here</a>.</p>
+            <p>This website lets you register for breakout sessions for the <strong>2019 Justice Summit on Gender</strong> at Bellarmine. However, registrations are currently closed so please view your schedule on the left of the screen. Breakout sessions are built into the Bellarmine schedule for the week of January 28th. Sessions in Blocks 1 and 2 (held on Tuesday) will be presented by Bellarmine faculty and students, and sessions in Block 3 and 4 (held on Wednesday) will be presented by guests to our campus.<br /><br />If you have any questions or need help, please contact me by <a href="mailto:marcus.ma20@bcp.org">clicking here</a>.</p>
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
